@@ -1,2 +1,2 @@
 # twitterAPI
-testing twitter A PIwith python
+testing twitter API with python
